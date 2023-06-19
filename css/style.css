@@ -2,6 +2,12 @@
     height: 350px;
 }
 
+#text_footer {
+    font-size: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+
 
 .text_red {
     color: red;
@@ -18,6 +24,7 @@
 .hr_orange {
     border-top: 2px solid rgb(230, 172, 36);
 }
+
 
 h2 {
     color: orange;
