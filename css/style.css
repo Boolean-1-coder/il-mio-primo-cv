@@ -1,3 +1,20 @@
+#img_profile {
+    height: 350px;
+}
+
+
 .text_red {
     color: red;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.bg_grey {
+    background-color: rgb(198, 198, 198);
+}
+
+.hr_orange {
+    border-top: 2px solid rgb(230, 172, 36);
 }
