@@ -18,3 +18,12 @@
 .hr_orange {
     border-top: 2px solid rgb(230, 172, 36);
 }
+
+h2 {
+    color: orange;
+    font-weight: 900;
+}
+
+h3 {
+    font-style: italic;
+}
